@@ -201,7 +201,7 @@
       "notable_works_titles": "Legend of Agnigarh & Hari-Hara Yuddha",
       "region_association": "Sonitpur (Modern Tezpur)",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/King_Banasura"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Banasura"
     },
     {
       "id": "bhagadatta",
@@ -216,7 +216,7 @@
       "notable_works_titles": "Mahabharata (Sabha Parva & Drona Parva mentions)",
       "region_association": "Pragjyotishpura (Modern Guwahati)",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/King_Bhagadatta"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bhagadatta"
     },
     {
       "id": "bhutivarman",
@@ -276,7 +276,7 @@
       "notable_works_titles": "Tezpur Rock Inscription (829 CE), Harjjar Pukhuri",
       "region_association": "Haruppeshwara (Tezpur)",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Harjjaravarman"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tezpur_rock_inscription"
     },
     {
       "id": "salastambha",
@@ -291,7 +291,7 @@
       "notable_works_titles": "Establishment of Haruppeshwara Capital",
       "region_association": "Haruppeshwara (Tezpur)",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Salastambha"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mlechchha_dynasty"
     },
     {
       "id": "vanamalavarmadeva",
@@ -306,7 +306,7 @@
       "notable_works_titles": "Tezpur Copperplates, Parbatiya Inscription",
       "region_association": "Haruppeshwara (Tezpur)",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Vanamalavarmadeva"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mlechchha_dynasty"
     },
     {
       "id": "brahmapala",
@@ -321,7 +321,7 @@
       "notable_works_titles": "Pala Royal Charter Foundations",
       "region_association": "Durjaya / Pragjyotishpura",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Brahmapala"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pala_dynasty_(Kamarupa)"
     },
     {
       "id": "dharmapala-kamarupa",
@@ -336,7 +336,7 @@
       "notable_works_titles": "Khonamukh, Subhankarapataka & Pushpabhadra Copperplates",
       "region_association": "Kamarupanagara (North Guwahati)",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Dharmapala_of_Kamarupa"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pala_dynasty_(Kamarupa)"
     },
     {
       "id": "ratnapala",
@@ -441,7 +441,7 @@
       "notable_works_titles": "Gaurisagar Tank & Temples, Establishment of Girls' Schools",
       "region_association": "Rangpur, Sivasagar",
       "gender": "Female",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Bor_Raja_Phuleswari"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Siva_Singha"
     },
     {
       "id": "chaolung-sukapha",
@@ -486,7 +486,7 @@
       "notable_works_titles": "Codification of Paik System & Village Planning",
       "region_association": "Garhgaon, Sivasagar",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Momai_Tamuli_Barbarua"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Momai_Tamuli_Borborua"
     },
     {
       "id": "mula-gabharu",
@@ -576,7 +576,7 @@
       "notable_works_titles": "Singarigharutha Coronation Ceremony",
       "region_association": "Charguya, Sivasagar",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Sudangpha"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sudangphaa"
     },
     {
       "id": "suhungmung-dihingia-raja",
@@ -636,7 +636,7 @@
       "notable_works_titles": "Reconstruction of Kamakhya Temple (1565), Patron to Sankardev",
       "region_association": "Cooch Behar & Kamrup",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Maharaja_Naranarayan"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nara_Narayan"
     },
     {
       "id": "sati-sadhani",
@@ -666,7 +666,7 @@
       "notable_works_titles": "Fortifications of Sadiya & Kundilnagar",
       "region_association": "Sadiya / Kundilnagar",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Gaurinarayan"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Chutia_kingdom"
     },
     {
       "id": "damodardev",
@@ -786,7 +786,7 @@
       "notable_works_titles": "Founding of Mayamara Sattra, Puranjan Akhyana",
       "region_association": "Dibrugarh / Tinsukia",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Aniruddhadeva"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aniruddhadev"
     },
     {
       "id": "ajan-fakir",
@@ -816,7 +816,7 @@
       "notable_works_titles": "Katha Gita (কথা গীতা), Katha Bhagavata (কথা ভাগৱত), Bhakti Viveka",
       "region_association": "Barnagar, Barpeta",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Vaikunthanatha_Bhagavata_Bhattacharya"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bhattadeva"
     },
     {
       "id": "sukumar-borkaith",
@@ -831,7 +831,7 @@
       "notable_works_titles": "Hastividyarnava (হস্তীবিদ্যSnapshot / হস্তীবিদ্যার্ণব)",
       "region_association": "Rangpur, Sivasagar",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Sukumar_Borkaith"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hastividyarnava"
     },
     {
       "id": "badan-chandra-borphukan",
@@ -951,7 +951,7 @@
       "notable_works_titles": "Ram-Navami (ৰাম-নৱমী), Assam Buranji (1884), Anandaram Dhekial Phukanar Jiwan Charitra",
       "region_association": "Nagaon",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Gunabhiram_Baruah"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gunabhiram_Barua"
     },
     {
       "id": "miles-bronson",
@@ -966,7 +966,7 @@
       "notable_works_titles": "A Dictionary in Assamese and English (1867)",
       "region_association": "Sibsagar / Nagaon",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Rev._Miles_Bronson"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Miles_Bronson"
     },
     {
       "id": "nathan-brown",
@@ -981,7 +981,7 @@
       "notable_works_titles": "Orunodoi (অৰুণোদই, 1846), Grammatical Notices of the Asamese Language (1848)",
       "region_association": "Sibsagar Mission",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Rev._Nathan_Brown"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nathan_Brown_(missionary)"
     },
     {
       "id": "anandaram-baruah",
@@ -1236,7 +1236,7 @@
       "notable_works_titles": "Gohpur Police Station Flag Hoisting (1942)",
       "region_association": "Barangabari, Gohpur",
       "gender": "Female",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Birbala_Kanaklata_Barua"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kanaklata_Barua"
     },
     {
       "id": "mukunda-kakati",
@@ -1281,7 +1281,7 @@
       "notable_works_titles": "Tumi, Anubhuti (অনুভূতি), Bandookar Guli, Bedanar Ulka",
       "region_association": "Barpeta / Guwahati",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Assam_Kesari_Ambikagiri_Raichoudhury"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ambikagiri_Raikawdhuri"
     },
     {
       "id": "chandraprabha-saikiani",
@@ -1431,7 +1431,7 @@
       "notable_works_titles": "Gungunoni, Bhonga Beena, Rupohi (1941 Film)",
       "region_association": "Sonari, Charaideo",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Geetikavi_Parbati_Prasad_Baruwa"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Parvati_Prasad_Baruva"
     },
     {
       "id": "pratima-barua-pandey",
@@ -1626,7 +1626,7 @@
       "notable_works_titles": "Stochastic Processes (Global standard textbook), Queueing Theory Models",
       "region_association": "Ramdia, Kamrup / Guwahati",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Prof._Jyotiprasad_Medhi"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jyotiprasad_Medhi"
     },
     {
       "id": "uddhab-bharali",
@@ -1701,7 +1701,7 @@
       "notable_works_titles": "Creation of the 1,360-acre Molai Forest, Padma Shri (2015)",
       "region_association": "Kokilamukh, Majuli / Jorhat",
       "gender": "Male",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jadav_'Molai'_Payeng"
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jadav_Payeng"
     },
     {
       "id": "purnima-devi-barman",
